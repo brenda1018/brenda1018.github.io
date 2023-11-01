@@ -1,0 +1,22 @@
+{% assign affiliations = site.data.data.sidebar.affiliations %}
+{% if affiliations %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ affiliations.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for interest in affiliations.info %}
+
+      {% if interest.link %}
+      <li><a href="{{ affiliation.link }}">{{ affiliation.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//affiliations-->
+{% endif %}

@@ -1,0 +1,147 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Brenda Beltran
+    tagline: Aspiring Project Manager
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: bbeltran1@mail.sfsu.edu
+    timezone: America/San_Francisco
+    linkedin: brenda-beltran-22076a1a9 
+    github: brenda1018
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://brendabeltran.me
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+        - idiom: Spanish
+          level: Fluent
+
+    interests:
+      title: Interests
+      info:
+        - item: Reading
+          link:
+
+        - item: Cooking
+          link:
+    affiliations:
+      title: Affiliations
+      info:
+        - item: Society of Hispanic Professional Engineers
+          link:
+
+        - item: Encouraging Diversity in Tech
+          link:
+
+        - item: Society of Women Engineers
+          link:
+
+        - item: Sigma Lambda Gamma National Sorority Inc.
+          link:
+
+career-profile:
+    title: About Me
+    summary: |
+      Hi, I'm Brenda :). I am in my final year at SF State, working torwards my bachelors degree in computer science. 
+      I've worked on several projects in my coursework where I developed a keen interest in Agile development and managing projects to completion. 
+      
+      Currently seeking internships and full-time opportunities in project management for Summer 2024!
+education:
+    title: Education
+    info:
+      - degree: BS in Computer Science
+        university: San Francisco State University
+        time: 2019 - 2024 (Expected)
+
+experiences:
+    title: Experience
+    info:
+      - role: Web Development Intern
+        time: 10/2022 - 03/2023
+        company: Academic Technology @ SFSU
+        details: |
+          The team works closely with a systems team in an on-premise private cloud environment. 
+          Candidates would work within a professional development team of software developers, 
+          quality assurance testers, and application administrators who execute projects in close collaboration.
+      - role: Advocacy and Recruitment Liason
+        time: 08/2022 - 08/2023
+        company: Computing Alliance of Hispanic-Serving @ SFSU
+        details: |
+          CAHSI advocates program serves to engage student leaders to serve as 
+          advocates for the computer science community. Advocates gain a netowrk of other students
+          leaders that are fostering communnities around them.  Latino advocacy reminds us of the importance of different cultures and societal gaps. 
+          Diversity is a strength that enriches society. 
+            - Hosted workshops on diversity and inclusion for computer science (CS) students 
+            - Founded and delivered "Encouraging Diversty in Tech", a biweekly newsletter to disseminate job opportunities and resources to CS students
+            - Partnered with other diversity organizations to develop a professional support network
+      - role: Orientation Leader
+        time: 04/2022 - 08/2022
+        company: New Student & Family Program @ SFSU
+        details: |
+          Orientation Leaders (OLs) assist with the implementation of San Francisco State University's New Student & Family Orientation Program (NSFP). 
+          OLs are current students who are well-respected, academically balanced leaders on campus.
+            - Succesfully prepared over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
+            - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
+            - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
+      - role: Summer Web Dev Program Participant
+        time: 04/2022 - 08/2022
+        company: Microsoft, Seattle (Remote)
+        details: |
+          During this 8 week mentorship program, groups of 3 undergraduate students are paired with a full-time 
+          Microsoft employee develop a web application of their choice. We built a simple Django application 
+          to be used by any social organization on the SFSU campus. Key features included the ability to create posts and 
+          user/database management.
+
+projects:
+    title: Projects
+    assignments:
+      - title: Club Website (Django)
+        link: "https://brendabeltran.me"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+certifications:
+      title: Certifications
+      list:
+        - name: Google Project Management Certificate
+          # start: 2020
+          end: In Progress
+          organization: Coursera
+          # credentialid: 111-222
+          # credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Learn how to create effective project 
+            documentation and artifacts throughout the various phases of a project
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Microsoft Suite
+        level: 100%
+      - name: Notion & Agile
+        level: 95%
+      - name: HTML & CSS
+        level: 70%
+      - name: Python & Django
+        level: 50%
+
+footer: >
+    Template by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
