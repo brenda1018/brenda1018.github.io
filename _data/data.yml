@@ -23,7 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://brendabeltran.me
+    pdf: /assets/images/Brenda-Beltran-Resume.pdf
 
     languages:
       title: Languages
@@ -38,7 +38,8 @@ sidebar:
       info:
         - item: Reading
           link:
-
+        - item: Hiking
+          link:
         - item: Cooking
           link:
     affiliations:
@@ -77,15 +78,16 @@ experiences:
         time: 10/2022 - 03/2023
         company: Academic Technology @ SFSU
         details: |
-          The team works closely with a systems team in an on-premise private cloud environment. 
-          Candidates would work within a professional development team of software developers, 
-          quality assurance testers, and application administrators who execute projects in close collaboration.
-      - role: Advocacy and Recruitment Liason
+          The Academic Technology Office serves campus technological needs and completes projects at the request of several on-campus
+          entities. Web development interns work under the mentorship of software developers, quality assurance testers, and application administrators
+            - Assisted in UI/UX evaluations in the office's on-premise private cloud environment.
+            - Participated in professional development including exposure to web dev design concepts.
+      - role: Advocacy and Recruitment Liaison
         time: 08/2022 - 08/2023
-        company: Computing Alliance of Hispanic-Serving @ SFSU
+        company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
         details: |
           CAHSI advocates program serves to engage student leaders to serve as 
-          advocates for the computer science community. Advocates gain a netowrk of other students
+          advocates for the computer science community. Advocates gain a network of other students
           leaders that are fostering communnities around them.  Latino advocacy reminds us of the importance of different cultures and societal gaps. 
           Diversity is a strength that enriches society. 
             - Hosted workshops on diversity and inclusion for computer science (CS) students 
@@ -97,7 +99,7 @@ experiences:
         details: |
           Orientation Leaders (OLs) assist with the implementation of San Francisco State University's New Student & Family Orientation Program (NSFP). 
           OLs are current students who are well-respected, academically balanced leaders on campus.
-            - Succesfully prepared over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
+            - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
             - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
       - role: Summer Web Dev Program Participant
@@ -105,16 +107,19 @@ experiences:
         company: Microsoft, Seattle (Remote)
         details: |
           During this 8 week mentorship program, groups of 3 undergraduate students are paired with a full-time 
-          Microsoft employee develop a web application of their choice. We built a simple Django application 
-          to be used by any social organization on the SFSU campus. Key features included the ability to create posts and 
+          Microsoft employee to develop a web application of their choice. We built a simple Django application 
+          to be used by any social organization on the SFSU campus. Key features included the ability to create posts as well as 
           user/database management.
 
 projects:
     title: Projects
     assignments:
       - title: Club Website (Django)
-        link: "https://brendabeltran.me"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://brendabeltran.me/club-website"
+        tagline: "This website was created during my 8 week mentorship program with Microsoft. We created 
+        a club website for Hermanas Unidas de SFSU, a social latinx organization. We designed this Django application 
+        to allow club officers to create and schedule announcements to the group at large. Officers are granted admin privileges which can be additionally granted 
+        or revoked as they see fit. Follow the link above or visit it here: <br> https://brendabeltran.me/club-website"
 certifications:
       title: Certifications
       list:
