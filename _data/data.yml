@@ -123,7 +123,7 @@ projects:
 
         
       - title: Job Platform 
-        link: "https://workwaves-jm2b5.ondigitalocean.app/"
+        link: "https://demo.brendabeltran.me/"
         tagline: "This application was developed during the fall semester as part of an academic project. It is a full stack application 
         built with React.js, Express.js, and Node.js. 
         It facilitates employment connections between employers and job seekers. 
