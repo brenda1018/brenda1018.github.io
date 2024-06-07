@@ -74,19 +74,6 @@ education:
 experiences:
     title: Experience
     info:
-       - role: WorkWaves Project Manager/Lead
-        time: 08/2023 - 12/2023
-        company: San Francisco State University 
-        details: |
-          WorkWaves is an application created by my team as an academic project. The application was made for employment connections
-          between employers and job seekers. As a project lead, I lead this project to it's completion along with the help of my team. This 
-          team consisted of a back-end, front-end, git-hub master, scrum master, and a project lead. See below for the application and git-hub repo.
-            - Developed a comprehensive project plan outlining tasks, timelines, and milestones with a group of 6
-                members to create a full stack website.
-            - Maintained detailed project documentation, including meeting minutes, design specifications, and progress
-            reports
-
-            
       - role: Web Development Intern
         time: 10/2022 - 03/2023
         company: Academic Technology @ SFSU
@@ -116,7 +103,7 @@ experiences:
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
             - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
       - role: Summer Web Dev Program Participant
-        time: 04/2021 - 08/2021
+        time: 04/2022 - 08/2022
         company: Microsoft, Seattle (Remote)
         details: |
           During this 8 week mentorship program, groups of 3 undergraduate students are paired with a full-time 
@@ -149,10 +136,9 @@ certifications:
       list:
         - name: Google Project Management Certificate
           # start: 2020
-          end: Dec 2023
-          organization: Credential Id: TW7GW6MX9SLQ - Coursera 
-          # credentialid: 
-
+          end: In Progress
+          organization: Coursera
+          # credentialid: 111-222
           # credentialurl: www.google.com
           credentialname: Google
           details: |
