@@ -74,23 +74,6 @@ education:
 experiences:
     title: Experience
     info:
- - role: Advocacy and Recruitment Liaison
-        time: 08/2022 - 08/2023
-        company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
-        details: |
-          The Computer Science Department serves all students studying computer science in both graduate and undergraduate studies.
-            - Supported weekly discussion sections of 30+ students for the Intro to Programming course.
-            - Engaged students one-on-one to facilitate understanding of course concepts and completion of projects.
-
-      - role: WorkWaves- Project Manager/Team Lead
-        time: 08/2023 - 12/2023
-        company: CSC648 @ SF State
-        details: |
-          Computer Science 648 consists of practical methods and tools for SW engineering including organizational teamwork
-            - Developed a comprehensive project plan outlining tasks, timelines, and milestones with a group of 6
-            members to create a full stack website.
-            - Maintained detailed project documentation, including meeting minutes, design specifications, and progress
-            reports
       - role: Advocacy and Recruitment Liaison
         time: 08/2022 - 08/2023
         company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
