@@ -94,7 +94,18 @@ experiences:
             - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
             - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
-     - role: Orientation Leader
+      - role: Advocacy and Recruitment Liaison
+        time: 08/2022 - 08/2023
+        company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
+        details: |
+          CAHSI advocates program serves to engage student leaders to serve as 
+          advocates for the computer science community. Advocates gain a network of other students
+          leaders that are fostering communnities around them.  Latino advocacy reminds us of the importance of different cultures and societal gaps. 
+          Diversity is a strength that enriches society. 
+            - Hosted workshops on diversity and inclusion for computer science (CS) students 
+            - Founded and delivered "Encouraging Diversty in Tech", a biweekly newsletter to disseminate job opportunities and resources to CS students
+            - Partnered with other diversity organizations to develop a professional support network
+      - role: Orientation Leader
         time: 04/2022 - 08/2022
         company: New Student & Family Program @ SFSU
         details: |
@@ -102,8 +113,7 @@ experiences:
           OLs are current students who are well-respected, academically balanced leaders on campus.
             - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
-            - Hosted campus tours for several hundred students and guided them through course selection and enrollment. 
-    
+            - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
 projects:
     title: Projects
     assignments:
