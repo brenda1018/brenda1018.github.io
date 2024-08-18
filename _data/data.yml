@@ -74,9 +74,9 @@ education:
 experiences:
     title: Experience
     info:
-     - role: Undergraduate Teaching Assistant
-        time: 08/2022 - 00/00
-        company: Computer Science Dept @ SFSU
+ - role: Advocacy and Recruitment Liaison
+        time: 08/2022 - 08/2023
+        company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
         details: |
           The Computer Science Department serves all students studying computer science in both graduate and undergraduate studies.
             - Supported weekly discussion sections of 30+ students for the Intro to Programming course.
