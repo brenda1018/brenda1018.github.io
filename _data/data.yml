@@ -60,7 +60,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi, I'm Brenda :). I am in my final year at SF State, working torwards my bachelors degree in computer science. 
+      Hi, I'm Brenda :). I am in my final semester at SF State, working torwards my bachelors degree in computer science. 
       I've worked on several projects in my coursework where I developed a keen interest in Agile development and managing projects to completion. 
       
       Currently seeking internships and full-time techincal project management opportunities! 
@@ -97,6 +97,13 @@ experiences:
           Computer Science 648 consists of practial methods and tools for software engineering including organizational teamwork
             - Developed a comprehensiive project plan outlining tasks, timelines, and milestones with a group of 6 members to create a full stack website
             - Maintained detailed project documentation, including meeting minutes, design specifications, and progress reports
+      - role: CAHSI Advocate & Recruitment Liasion
+        time: 08/2022 - 08/2023
+        company: Computing Alliance of Hispanic-Serving Institutes
+        details: |
+          CAHSI efforts center on research that focuses on organizational behavior in HSI's that advance Hispanic computing success
+            - Hosted workshops to promote diversity and inclusion for CS students
+            - MFounded and delivered " Encouraging Diversity in Tech", a biweekly newsletter to disseminate job opportunities and resources to CS students
       - role: Orientation Leader
         time: 04/2022 - 08/2022
         company: New Student & Family Program @ SFSU
