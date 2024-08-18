@@ -111,15 +111,7 @@ experiences:
             - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
             - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
-      - role: Summer Web Dev Program Participant
-        time: 04/2022 - 08/2022
-        company: Microsoft, Seattle (Remote)
-        details: |
-          During this 8 week mentorship program, groups of 3 undergraduate students are paired with a full-time 
-          Microsoft employee to develop a web application of their choice. We built a simple Django application 
-          to be used by any social organization on the SFSU campus. Key features included the ability to create posts as well as 
-          user/database management.
-
+    
 projects:
     title: Projects
     assignments:
