@@ -74,17 +74,6 @@ education:
 experiences:
     title: Experience
     info:
-     - role: Undergraduate Teaching Assistant
-        time: 08/2022 - 12/2024
-        company: Computer Science Department @ SFSU
-        details: |
-          The Computer Science Deparment at SF State serves all computer science students in either 
-          undergraduate or graduate studies.
-            - Supported weekly discussion sections of 30+ students for the Intro to Programming course 
-            - Engaged students one-to-one to facillitate understanding of course concepts and completion of projects
-   
-
-      
       - role: Undergraduate Teaching Assistant
         time: 08/2022 - 12/2024
         company: Computer Science Department @ SFSU
@@ -93,7 +82,16 @@ experiences:
           undergraduate or graduate studies.
             - Supported weekly discussion sections of 30+ students for the Intro to Programming course 
             - Engaged students one-to-one to facillitate understanding of course concepts and completion of projects
-   
+
+    - role: Pre-Apprenticeship Cohort
+        time: 04/2022 - 08/2022
+        company: NDev/MissionU
+        details: |
+          Orientation Leaders (OLs) assist with the implementation of San Francisco State University's New Student & Family Orientation Program (NSFP). 
+          OLs are current students who are well-respected, academically balanced leaders on campus.
+            - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
+            - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
+            - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
       - role: WorkWaves - Project Manager/Team Lead
         time: 08/2023 - 12/2023
         company: CSC648 Software Development @ SFSU
