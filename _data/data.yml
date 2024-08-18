@@ -74,6 +74,15 @@ education:
 experiences:
     title: Experience
     info:
+    - role: Undergraduate Teaching Assistant
+        time: 08/2022 - 12/2024
+        company: Computer Science Department @ SFSU
+        details: |
+          The Computer Science Deparment at SF State serves all computer science students in either 
+          undergraduate or graduate studies.
+            - Supported weekly discussion sections of 30+ students for the Intro to Programming course 
+            - Engaged students one-to-one to facillitate understanding of course concepts and completion of projects
+      - role: WorkWaves - Project Manager/Team Lead
       - role: Undergraduate Teaching Assistant
         time: 08/2022 - 12/2024
         company: Computer Science Department @ SFSU
