@@ -89,7 +89,15 @@ experiences:
           Computer Science 648 consists of practial methods and tools for software engineering including organizational teamwork
             - Developed a comprehensiive project plan outlining tasks, timelines, and milestones with a group of 6 members to create a full stack website
             - Maintained detailed project documentation, including meeting minutes, design specifications, anf progress reports
-      
+     - role: Orientation Leader
+        time: 04/2022 - 08/2022
+        company: New Student & Family Program @ SFSU
+        details: |
+          Orientation Leaders (OLs) assist with the implementation of San Francisco State University's New Student & Family Orientation Program (NSFP). 
+          OLs are current students who are well-respected, academically balanced leaders on campus.
+            - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
+            - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
+            - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
       - role: Orientation Leader
         time: 04/2022 - 08/2022
         company: New Student & Family Program @ SFSU
@@ -99,6 +107,7 @@ experiences:
             - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
             - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
+            
 projects:
     title: Projects
     assignments:
