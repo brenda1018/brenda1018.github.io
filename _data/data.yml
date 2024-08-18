@@ -82,7 +82,13 @@ experiences:
           undergraduate or graduate studies.
             - Supported weekly discussion sections of 30+ students for the Intro to Programming course 
             - Engaged students one-to-one to facillitate understanding of course concepts and completion of projects      
-
+      - role: WorkWaves - Project Manager/Team Lead
+        time: 08/2023 - 12/2023
+        company: CSC648 Software Development @ SFSU
+        details: |
+          Computer Science 648 consists of practial methods and tools for software engineering including organizational teamwork
+            - Developed a comprehensiive project plan outlining tasks, timelines, and milestones with a group of 6 members to create a full stack website
+            - Maintained detailed project documentation, including meeting minutes, design specifications, and progress reports
       - role: Pre-Apprenticeship Cohort #26
         time: 06/2024 - 08/2024
         company: Dev/Mission, San Francisco
