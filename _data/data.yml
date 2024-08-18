@@ -74,15 +74,18 @@ education:
 experiences:
     title: Experience
     info:
-    - role: Undergraduate Teaching Assistant
-        time: 08/2022 - 12/2024
-        company: Computer Science Department @ SFSU
+     - role: Advocacy and Recruitment Liaison
+        time: 08/2022 - 08/2023
+        company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
         details: |
-          The Computer Science Deparment at SF State serves all computer science students in either 
-          undergraduate or graduate studies.
-            - Supported weekly discussion sections of 30+ students for the Intro to Programming course 
-            - Engaged students one-to-one to facillitate understanding of course concepts and completion of projects
-      - role: WorkWaves - Project Manager/Team Lead
+          CAHSI advocates program serves to engage student leaders to serve as 
+          advocates for the computer science community. Advocates gain a network of other students
+          leaders that are fostering communnities around them.  Latino advocacy reminds us of the importance of different cultures and societal gaps. 
+          Diversity is a strength that enriches society. 
+            - Hosted workshops on diversity and inclusion for computer science (CS) students 
+            - Founded and delivered "Encouraging Diversty in Tech", a biweekly newsletter to disseminate job opportunities and resources to CS students
+            - Partnered with other diversity organizations to develop a professional support network
+    
       - role: Undergraduate Teaching Assistant
         time: 08/2022 - 12/2024
         company: Computer Science Department @ SFSU
