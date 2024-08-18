@@ -74,14 +74,23 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Web Development Intern
-        time: 10/2022 - 03/2023
-        company: Academic Technology @ SFSU
+     - role: Undergraduate Teaching Assistant
+        time: 08/2022 - xx/xx
+        company: Computer Science Dept @ SFSU
         details: |
-          The Academic Technology Office serves campus technological needs and completes projects at the request of several on-campus
-          entities. Web development interns work under the mentorship of software developers, quality assurance testers, and application administrators
-            - Assisted in UI/UX evaluations in the office's on-premise private cloud environment.
-            - Participated in professional development including exposure to web dev design concepts.
+          The Computer Science Department serves all students studying computer science in both graduate and undergraduate studies.
+            - Supported weekly discussion sections of 30+ students for the Intro to Programming course.
+            - Engaged students one-on-one to facilitate understanding of course concepts and completion of projects.
+
+      - role: WorkWaves- Project Manager/Team Lead
+        time: 08/2023 - 12/2023
+        company: CSC648 @ SF State
+        details: |
+          Computer Science 648 consists of practical methods and tools for SW engineering including organizational teamwork
+            - Developed a comprehensive project plan outlining tasks, timelines, and milestones with a group of 6
+            members to create a full stack website.
+            - Maintained detailed project documentation, including meeting minutes, design specifications, and progress
+            reports
       - role: Advocacy and Recruitment Liaison
         time: 08/2022 - 08/2023
         company: Computing Alliance of Hispanic-Serving Institutions @ SFSU
@@ -102,15 +111,6 @@ experiences:
             - Assisted in the preparation of over 30 orientation sessions: scheduling, documentation, and staffing/logistics.
             - Mentored newly admitted students through orientation, connecting them with academic resources and student life at SFSU.
             - Hosted campus tours for several hundred students and guided them through course selection and enrollment.
-      - role: Summer Web Dev Program Participant
-        time: 04/2022 - 08/2022
-        company: Microsoft, Seattle (Remote)
-        details: |
-          During this 8 week mentorship program, groups of 3 undergraduate students are paired with a full-time 
-          Microsoft employee to develop a web application of their choice. We built a simple Django application 
-          to be used by any social organization on the SFSU campus. Key features included the ability to create posts as well as 
-          user/database management.
-
       - role: Summer Web Dev Program Participant
         time: 04/2022 - 08/2022
         company: Microsoft, Seattle (Remote)
