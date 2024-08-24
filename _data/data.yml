@@ -141,7 +141,7 @@ certifications:
       list:
         - name: Google Project Management Certificate
           # start: 2020
-          end: In Progress
+          end: 2023
           organization: Coursera
           # credentialid: 111-222
           # credentialurl: www.google.com
