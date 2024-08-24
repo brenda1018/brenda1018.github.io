@@ -143,8 +143,8 @@ certifications:
           # start: 2020
           end: 2023
           organization: Coursera
-          # credentialid: 111-222
-          # credentialurl: www.google.com
+          credentialid: TW7GW6MX9SLQ
+          credentialurl: https://www.coursera.org/account/accomplishments/records/TW7GW6MX9SLQ
           credentialname: Google
           details: |
             Learn how to create effective project 
