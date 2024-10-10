@@ -4,7 +4,7 @@ ENV TZ=America/Los_Angeles
 
 RUN mkdir /scripts
 
-COPY /srv/jekyll/_site /scripts/out
+COPY ./srv/jekyll/out /scripts/out
 
 WORKDIR /scripts
 
