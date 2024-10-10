@@ -2,9 +2,12 @@ FROM node:16.13.0
 
 ENV TZ=America/Los_Angeles
 
-RUN mkdir /scripts
+RUN mkdir -p /scripts/out
 
-COPY ./out /scripts/out
+COPY ./out/favicon.ico /scripts/out/
+COPY ./out/index.html /scripts/out/
+COPY ./out/print.html /scripts/out/
+COPY ./out/assets /scripts/out/assets
 
 WORKDIR /scripts
 
