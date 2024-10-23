@@ -137,7 +137,7 @@ projects:
         the overall accessibility and functionality of the platform. 
         Follow the application URL above OR visit our github repo here: https://github.com/CSC-648-SFSU/csc648-01-fall23-team03  "
     
-     - title: Club Website (Django)
+     -  title: Club Website (Django)
         link: "https://brendabeltran.me/club-website"
         tagline: "This website was created during my 8 week mentorship program with Microsoft. We created 
         a club website for Hermanas Unidas de SFSU, a social latinx organization. We designed this Django application 
