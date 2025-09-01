@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: bbeltran1@mail.sfsu.edu
+    email: brenduh6656@gmail.com
     timezone: America/San_Francisco
     linkedin: brenda-beltran-22076a1a9 
     github: brenda1018
@@ -60,7 +60,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi, I'm Brenda :). I am in my final semester at SF State, working torwards my bachelors degree in computer science. 
+      Hi, I'm Brenda :). I am a recent grad from San Francisco State University, with a bachelors degree in computer science. 
       I've worked on several projects in my coursework where I developed a keen interest in Agile development and managing projects to completion. 
       
       Currently seeking internships and full-time technical project management opportunities! 
@@ -69,11 +69,21 @@ education:
     info:
       - degree: BS in Computer Science
         university: San Francisco State University
-        time: 2019 - 2024 (Expected)
+        time: 2019 - 2025 
 
 experiences:
     title: Experience
     info:
+      - role: IT Project Management & Delivery Intern
+        time: 07/2025 - Present
+        company: San Francisco International Aiport
+        details: |
+          San Francisco International Aiport (SFO) echnology vision is to provide solutions that empower our passengers
+           stakeholders, and Commission staff. ITT’s mission is to elevate airport operations by implementing the right 
+           technology in service of our people, guests, and our planet
+            - Assisted IT projet managers with planning and executing, by coordinating with cross-functional teams,tracking
+            project timelines, and facilliating communication. 
+            - Led technical projects which included the project life cycle; initiation, planning, execution, delivery, and closing.     
       - role: Undergraduate Teaching Assistant
         time: 08/2022 - 12/2024
         company: Computer Science Department @ SFSU
