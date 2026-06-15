@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "brenda-website",
+  "compatibility_date": "2026-06-11",
+  "assets": {
+    "directory": "."
+  },
+"workers_dev": false,
+"compatibility_flags": [
+      "nodejs_compat"
+    ]
+}
